@@ -10,4 +10,5 @@ Python · JavaScript · React Native · C++ · HTML/CSS · Claude API · Seleniu
 
 ## Connect
 📧 codeswithsara@gmail.com
-💼 linkedin.com/in/codeswithsara
+💼 linkedin.com/in/saraalidev
+
