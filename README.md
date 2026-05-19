@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sara Ali 👋
 
-<!--
-**codeswithsara/codeswithsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad from Rutgers | Building AI-powered mobile apps | Based in New York
 
-Here are some ideas to get you started:
+## What I'm working on
+- **Aura** — an AI fact-checking app for social media (React Native + Claude API)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+Python · JavaScript · React Native · C++ · HTML/CSS · Claude API · Selenium
+
+## Connect
+📧 codeswithsara@gmail.com
+💼 linkedin.com/in/codeswithsara
